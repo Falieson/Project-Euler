@@ -1,1 +1,3 @@
-This file was created by JetBrains RubyMine 4.5.2 for binding GitHub repository
+Project Euler is a website that has almost 500 math problems ranging in difficulty and challenges you to find the answer. I've done many of these problems (the site is down at the moment so I can't check) but I've uploaded ruby scripts that answer the first 5 of the project euler problems. I look forward to doing more of these problems in varying languages while also learning to write code that is efficient and therefore fast.
+
+http://projecteuler.net/
